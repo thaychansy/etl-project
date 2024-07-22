@@ -38,9 +38,6 @@ The instructions for this mini project are divided into the following subsection
 
 - A `category` column that contains only the category titles
 
-- The following image shows this category DataFrame:
-
-
 2. Export the category DataFrame as `category.csv`.
 
 3. Extract and transform the `crowdfunding.xlsx` Excel data to create a subcategory DataFrame that has the following columns:
