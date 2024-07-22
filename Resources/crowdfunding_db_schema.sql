@@ -7,6 +7,12 @@ DROP TABLE IF EXISTS category;
 DROP TABLE IF EXISTS subcategory;
 DROP TABLE IF EXISTS contacts;
 
+-- Query to ensure data is inserted properly
+--SELECT * FROM  campaign;
+--SELECT * FROM  category;
+--SELECT * FROM  subcategory;
+--SELECT * FROM  contacts;
+
 CREATE TABLE "category" (
     "category_id" VARCHAR(10)   NOT NULL,
     "category" VARCHAR(50)   NOT NULL,
