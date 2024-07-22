@@ -9,7 +9,7 @@
 Table of Contents
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-extract-transform-and-load-framework">Built With Extract, Transform, and Load Framework (ETL)</a></li>
+<li><a href="#built-with-python-and-postgres-sql-framework">Built With Python and Postgres SQL Framework</a></li>
 <li><a href="#contributing">Contributing (UC Berkeley Bootcamp Students Only) </a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -122,7 +122,7 @@ Option 2, using Python dictionary methods, would be suitable for scenarios where
   
 <!-- BUILT -->
 
-## Built with Extract Transform and Load Framework 
+## Built with Python and Postgres SQL Framework 
 
 ETL is a data integration process that involves extractingdata from various sources, transforming it into a desired format, and loading it into a target system for further analysis or processing. It's a critical component of data warehousing and business intelligence solutions.
 
