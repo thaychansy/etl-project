@@ -1,4 +1,4 @@
-<h1  align="center">Crowdfunding ETL Projecg</h1>
+<h1  align="center">Crowdfunding ETL Project</h1>
 <a name="readme-top"></a>
 
 
