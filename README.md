@@ -9,7 +9,7 @@
 Table of Contents
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-python-and-postgres-sql-framework">Built With Python and Postgres SQL Framework</a></li>
+<li><a href="#built-with-python-and-postgressql-framework">Built With Python and PostgresSQL Framework</a></li>
 <li><a href="#contributing">Contributing (UC Berkeley Bootcamp Students Only) </a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -121,7 +121,7 @@ Option 2, using Python dictionary methods, would be suitable for scenarios where
   
 <!-- BUILT -->
 
-## Built with Python and Postgres SQL Framework 
+## Built with Python and PostgresSQL Framework 
 
 ETL is a data integration process that involves extractingdata from various sources, transforming it into a desired format, and loading it into a target system for further analysis or processing. It's a critical component of data warehousing and business intelligence solutions.
 
@@ -236,6 +236,7 @@ Here's a list of resources we found helpful and would like to give credit to.
   
 * [Chat GPT] [ChatGPT](https://chatgpt.com/)
 * [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
+* [Stack Overflow [Error Importing CSV File Into PostgreSQL](https://stackoverflow.com/questions/75869359/i-am-getting-an-error-when-importing-csv-file-into-postgresql)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
