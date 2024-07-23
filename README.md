@@ -88,13 +88,12 @@ Choose one of the following two options for extracting and transforming the data
 ### Choosing Option 1: Reasoning for Using Python Dictionary Methods
 
 Option 1, using Python dictionary methods, would be suitable for scenarios where:
+- Data is irregular or unstructured: If the data within the 'contact_info' column is inconsistent or has varying formats, dictionary-based parsing might offer more flexibility.
+- Detailed control over data extraction: You require granular control over the extraction process and have a clear understanding of the data structure.
+- Performance is not critical: For smaller datasets or when performance is not a primary concern, dictionary-based processing can be a viable approach.
 
-Data is irregular or unstructured: If the data within the 'contact_info' column is inconsistent or has varying formats, dictionary-based parsing might offer more flexibility.
-Detailed control over data extraction: You require granular control over the extraction process and have a clear understanding of the data structure.
-Performance is not critical: For smaller datasets or when performance is not a primary concern, dictionary-based processing can be a viable approach.
 
-
-### Choosing Option 2: Reasoning Using Regular Expressions
+### Choosing Option 2: Reasoning for Using Regular Expressions
 
 Option 2, using Python dictionary methods, would be suitable for scenarios where:
 - Efficiency: Regular expressions are generally more efficient for extracting specific patterns from text data compared to iterating over dictionaries.
