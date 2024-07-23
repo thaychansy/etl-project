@@ -29,10 +29,12 @@ CREATE TABLE "subcategory" (
      )
 );
 
+DROP TABLE IF EXISTS campaign;
 CREATE TABLE "campaign" (
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,
 	"company_name" VARCHAR(50)   NOT NULL,
+	"description" VARCHAR(255)   NOT NULL,
 	"goal" FLOAT   NOT NULL,
 	"pledge" FLOAT   NOT NULL,
 	"outcome" VARCHAR(50)   NOT NULL,
