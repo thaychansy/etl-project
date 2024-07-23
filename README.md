@@ -78,7 +78,7 @@ By following these steps, this should have a well-structured campaign DataFrame 
 
 ## Create the Contacts DataFrame
 
-Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
+Choose one of the following two options for extracting and transforming the data from the `contacts.xlsx` Excel data:
 
 - Option 1: Use Python dictionary methods.
 
