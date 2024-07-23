@@ -58,7 +58,7 @@ We're tasked with extracting specific columns from a crowdfunding dataset, clean
 ### Explanation
 1. Import pandas: Imports the Pandas library for data manipulation.
 
-2. Load Excel data: Reads the 'crowdfunding.xlsx' file into a Pandas DataFrame.
+2. Load Excel data: Reads the `crowdfunding.xlsx` file into a Pandas DataFrame.
 
 3. Create `campaign_df` DataFrame: Creates a new DataFrame with selected columns and necessary transformations.
 - `cf_id`, `contact_id`, `company_name`, `outcome`, `backers_count`, `country`, and `currency` columns are directly assigned.
