@@ -114,13 +114,21 @@ Option 2, using Python dictionary methods, would be suitable for scenarios where
 
 4. Create a new Postgres database, named `crowdfunding_db`.
 
-5. Using the database schema, create the tables in the correct order to handle the foreign keys.
+<img width="942" src="Resources/postgres_sql_pt1.gif" alt="postgres sql part 1" />
 
-6. Verify the table creation by running a `SELECT` statement for each table.
+1. Using the database schema, create the tables in the correct order to handle the foreign keys.
 
-7. Import each CSV file into its corresponding SQL table.
+<img width="942" src="Resources/postgres_sql_pt2.gif" alt="postgres sql part 2" />
 
-8. Verify that each table has the correct data by running a `SELECT` statement for each.
+2. Verify the table creation by running a `SELECT` statement for each table.
+
+3. Import each CSV file into its corresponding SQL table.
+
+<img width="942" src="Resources/postgres_sql_pt3.gif" alt="postgres sql part 3" />
+
+4. Verify that each table has the correct data by running a `SELECT` statement for each.
+
+<img width="942" src="Resources/postgres_sql_pt4.gif" alt="postgres sql part 4" />
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
