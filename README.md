@@ -236,7 +236,7 @@ Here's a list of resources we found helpful and would like to give credit to.
   
 * [Chat GPT] [ChatGPT](https://chatgpt.com/)
 * [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
-* [Stack Overflow [Error Importing CSV File Into PostgreSQL](https://stackoverflow.com/questions/75869359/i-am-getting-an-error-when-importing-csv-file-into-postgresql)
+* [Stack Overflow] [Error Importing CSV File Into PostgreSQL](https://stackoverflow.com/questions/75869359/i-am-getting-an-error-when-importing-csv-file-into-postgresql)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
