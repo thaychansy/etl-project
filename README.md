@@ -50,6 +50,8 @@ The instructions for this mini project are divided into the following subsection
 
 4. Export the subcategory DataFrame as `subcategory.csv`. 
 
+<img width="942" src="Resources/python_code_run_pt1.gif" alt="python code part 1" />
+
 ## Create the Campaign Dataframe
 
 We're tasked with extracting specific columns from a crowdfunding dataset, cleaning and transforming them, and creating a new DataFrame called `campaign_df`. This DataFrame will serve as the foundation for further analysis.
@@ -75,6 +77,7 @@ We're tasked with extracting specific columns from a crowdfunding dataset, clean
 
 By following these steps, this should have a well-structured campaign DataFrame ready for further analysis.
 
+<img width="942" src="Resources/python_code_run_pt2.gif" alt="python code part 2" />
 
 ## Create the Contacts DataFrame
 
@@ -98,6 +101,8 @@ Option 1, using Python dictionary methods, would be suitable for scenarios where
 Option 2, using Python dictionary methods, would be suitable for scenarios where:
 - Efficiency: Regular expressions are generally more efficient for extracting specific patterns from text data compared to iterating over dictionaries.
 - Directness: Directly extracting the desired columns using regular expressions is more concise.
+
+<img width="942" src="Resources/python_code_run_pt3.gif" alt="python code part 3" />
 
 ## Create the Crowdfunding Database
 
