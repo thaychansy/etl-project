@@ -98,7 +98,7 @@ Option 1, using Python dictionary methods, would be suitable for scenarios where
 
 ### Choosing Option 2: Reasoning for Using Regular Expressions
 
-Option 2, using Python dictionary methods, would be suitable for scenarios where:
+Option 2, using Regular Expressions `regex` methods, would be suitable for scenarios where:
 - Efficiency: Regular expressions are generally more efficient for extracting specific patterns from text data compared to iterating over dictionaries.
 - Directness: Directly extracting the desired columns using regular expressions is more concise.
 
