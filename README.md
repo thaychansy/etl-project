@@ -64,7 +64,7 @@ We're tasked with extracting specific columns from a crowdfunding dataset, clean
 
 3. Create `campaign_df` DataFrame: Creates a new DataFrame with selected columns and necessary transformations.
 - `cf_id`, `contact_id`, `company_name`, `outcome`, `backers_count`, `country`, and `currency` columns are directly assigned.
-- `blurb` is renamed to description.
+- `blurb` is renamed to `description`.
 - `goal` and `pledged` are converted to float data types.
 - `launched_at` and `deadline` are converted to `datetime` format with UTC conversion.
 - `category_id` and `subcategory_id` are assigned.
