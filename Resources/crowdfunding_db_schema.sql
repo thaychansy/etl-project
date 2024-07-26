@@ -29,7 +29,6 @@ CREATE TABLE "subcategory" (
      )
 );
 
-DROP TABLE IF EXISTS campaign;
 CREATE TABLE "campaign" (
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,

@@ -50,7 +50,7 @@ The instructions for this mini project are divided into the following subsection
 
 4. Export the subcategory DataFrame as `subcategory.csv`. 
 
-<img width="942" src="Resources/python_code_run_pt1.gif" alt="python code part 1" />
+<img width="942" src="Resources/images/gif/python_code_run_pt1.gif" alt="python code part 1" />
 
 ## Create the Campaign Dataframe
 
@@ -77,7 +77,7 @@ We're tasked with extracting specific columns from a crowdfunding dataset, clean
 
 By following these steps, this should have a well-structured campaign DataFrame ready for further analysis.
 
-<img width="942" src="Resources/python_code_run_pt2.gif" alt="python code part 2" />
+<img width="942" src="Resources/images/gif/python_code_run_pt2.gif" alt="python code part 2" />
 
 ## Create the Contacts DataFrame
 
@@ -102,13 +102,13 @@ Option 2, using Regular Expressions `regex` methods, would be suitable for scena
 - Efficiency: Regular expressions are generally more efficient for extracting specific patterns from text data compared to iterating over dictionaries.
 - Directness: Directly extracting the desired columns using regular expressions is more concise.
 
-<img width="942" src="Resources/python_code_run_pt3.gif" alt="python code part 3" />
+<img width="942" src="Resources/images/gif/python_code_run_pt3.gif" alt="python code part 3" />
 
 ## Create the Crowdfunding Database
 
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using `QuickDBDLinks` site.
 
-<img width="942" src="Resources/crowfunding_db_erd_diagram.png" alt="ERD diagram" />
+<img width="942" src="Resources/images/png/crowfunding_db_erd_diagram.png" alt="ERD diagram" />
 
 2. Use the information from the ERD to create a table schema for each CSV file.
 
@@ -116,21 +116,21 @@ Option 2, using Regular Expressions `regex` methods, would be suitable for scena
 
 4. Create a new Postgres database, named `crowdfunding_db`.
 
-<img width="942" src="Resources/postgres_sql_pt1.gif" alt="postgres sql part 1" />
+<img width="942" src="Resources/images/gif/postgres_sql_pt1.gif" alt="postgres sql part 1" />
 
 5. Using the database schema, create the tables in the correct order to handle the foreign keys.
 
-<img width="942" src="Resources/postgres_sql_pt2.gif" alt="postgres sql part 2" />
+<img width="942" src="Resources/images/gif/postgres_sql_pt2.gif" alt="postgres sql part 2" />
 
 6. Verify the table creation by running a `SELECT` statement for each table.
 
 7. Import each CSV file into its corresponding SQL table.
 
-<img width="942" src="Resources/postgres_sql_pt3.gif" alt="postgres sql part 3" />
+<img width="942" src="Resources/images/gif/postgres_sql_pt3.gif" alt="postgres sql part 3" />
 
 8. Verify that each table has the correct data by running a `SELECT` statement for each.
 
-<img width="942" src="Resources/postgres_sql_pt4.gif" alt="postgres sql part 4" />
+<img width="942" src="Resources/images/gif/postgres_sql_pt4.gif" alt="postgres sql part 4" />
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
