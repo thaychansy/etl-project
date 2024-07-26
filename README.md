@@ -108,6 +108,8 @@ Option 2, using Regular Expressions `regex` methods, would be suitable for scena
 
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using `QuickDBDLinks` site.
 
+<img width="942" src="Resources/crowfunding_db_erd_diagram.png" alt="ERD diagram" />
+
 2. Use the information from the ERD to create a table schema for each CSV file.
 
 3. Save the database schema as a Postgres file named `crowdfunding_db_schema.sql`.
@@ -136,7 +138,7 @@ Option 2, using Regular Expressions `regex` methods, would be suitable for scena
 
 ## Built with Python and PostgresSQL Framework 
 
-ETL is a data integration process that involves extractingdata from various sources, transforming it into a desired format, and loading it into a target system for further analysis or processing. It's a critical component of data warehousing and business intelligence solutions.
+ETL is a data integration process that involves extracting data from various sources, transforming it into a desired format, and loading it into a target system for further analysis or processing. It's a critical component of data warehousing and business intelligence solutions.
 
 
 1. Extraction
