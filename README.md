@@ -50,7 +50,7 @@ The instructions for this mini project are divided into the following subsection
 
 4. Export the subcategory DataFrame as `subcategory.csv`. 
 
-<kbd> <img width="1000" src="Resources/images/gif/python_code_run_pt1.gif" alt="python code part 1" /> </kbd>
+<kbd> <img width="750" src="Resources/images/gif/python_code_run_pt1.gif" alt="python code part 1" /> </kbd>
 
 ## Create the Campaign Dataframe
 
